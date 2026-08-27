@@ -1,0 +1,6 @@
+{
+  "name": "Bolinha Cravo Pet - Anti-stress para Cães",
+  "description": "Landing page de alta conversão para bolinha cravo anti-stress para cães com links de compra no Mercado Livre, Shopee, WhatsApp, redes sociais e localização no Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
